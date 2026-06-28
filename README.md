@@ -1,4 +1,5 @@
 # BAH_LIGHT_CURVE_DATA
+Author: [Hiten B. Singh (M4YH3M)](https://github.com/M4YH3M-DEV/)
 
 
 ##
