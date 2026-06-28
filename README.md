@@ -1,6 +1,8 @@
 # BAH_LIGHT_CURVE_DATA
 Author: [Hiten B. Singh (M4YH3M)](https://github.com/M4YH3M-DEV/)
 
+DEMO Folder Contain the Usable- Time / FLux Data for use
+Labeled Folder can be used to retrive more data parameters/category
 
 ##
 NORMAL_STARS = [
